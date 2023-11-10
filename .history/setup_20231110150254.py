@@ -45,6 +45,6 @@ if __name__ == '__main__':
         flows.append(fc.get_flows())
     scheduler = FlowScheduler(config['duration'], flows, config['scheduler_p'])
     
-    # scheduler.run()
+    scheduler.run()
     
 

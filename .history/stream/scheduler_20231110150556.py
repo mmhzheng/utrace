@@ -4,7 +4,6 @@ import threading
 import logging
 from stream.iperfgen import IperfGen
 from stream.flowinfo import FlowInfo
-from typing import List
 S_TO_US = 1e6
 
 class FlowScheduler:

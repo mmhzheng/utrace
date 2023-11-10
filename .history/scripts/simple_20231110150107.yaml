@@ -16,8 +16,8 @@ hadoopflow:
   server_ip: 10.0.0.10
   server_port: 5001
   type: tcp
-  num: 1000
+  num: 100
   min_size : 64
   max_size : 100000000
-  distribution: WebSearch
+  distribution: FacebookHadoop
   distribution_params: []

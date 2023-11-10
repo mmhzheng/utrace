@@ -4,11 +4,10 @@ import threading
 import logging
 from stream.iperfgen import IperfGen
 from stream.flowinfo import FlowInfo
-from typing import List
 S_TO_US = 1e6
 
 class FlowScheduler:
-    def __init__(self, duration_s : float, flows: list, p = 1):
+    def __init__(self, flows: list(FlowInfo), duration_s : float, p = 1):
         """
         Start to generate flows.
         """

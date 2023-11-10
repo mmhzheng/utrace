@@ -8,19 +8,23 @@ import logging
 class IperfGen(FlowGenerator):
     def __init__(self):
         self.processes: List[multiprocessing.Process] = []
+        self.server_ip = server_ip
+        self.server_port = server_port
 
     def lauch_one_flow(self, flow : FlowInfo) -> None:
         id = flow.id
         size = flow.size
-        server_ip = flow.server_ip
-        server_port = flow.server_port
         output_file = f"iperf_output_flow{id}.txt"
-        process = multiprocessing.Process(target=self.run_iperf, args=(server_ip, server_port, size, output_file,))
+
+        logging.debug(f"Iperf flow {id} with size {size} bytes start")
+
+        process = multiprocessing.Process(target=self.run_iperf, args=(output_file,))
         process.start()
+
         self.processes.append(process)
 
-    def run_iperf(self, server_ip, server_port, size, output_file):
-        cmd = f"iperf -c {server_ip} -p {server_port} -n {size} -Z dctcp" # use dctcp as the congestion control algorithm
+    def run_iperf(self, output_file):
+        cmd = f"iperf -c {self.server_ip} -p {self.server_port} -Z dctcp"
         with open(output_file, 'w') as file:
             subprocess.run(cmd.split(), stdout=file, stderr=subprocess.PIPE)
 

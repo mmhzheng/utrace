@@ -3,12 +3,10 @@ from tqdm import tqdm
 import threading
 import logging
 from stream.iperfgen import IperfGen
-from stream.flowinfo import FlowInfo
-from typing import List
 S_TO_US = 1e6
 
 class FlowScheduler:
-    def __init__(self, duration_s : float, flows: list, p = 1):
+    def __init__(self, duration_s : float, flows : list, p = 1):
         """
         Start to generate flows.
         """
@@ -19,7 +17,7 @@ class FlowScheduler:
         for idx, f in enumerate(flows):
             select = idx % p
             self.flows[select].append(f)
-        self.iperfGen = IperfGen()
+        self.iperfGen = IperfGen(server_ip=server_ip, server_port=server_port)
     
     def run(self) -> None:
         for t in self.threads:

@@ -40,11 +40,8 @@ if __name__ == '__main__':
                             config[flow]['distribution_params'])
         flow_collections.append(fc)
     
-    flows = []
     for fc in flow_collections:
-        flows.append(fc.get_flows())
-    scheduler = FlowScheduler(config['duration'], flows, config['scheduler_p'])
-    
-    # scheduler.run()
+        scheduler = FlowScheduler(config['duration'], fc.get_flows(), config['scheduler_p'])
+        scheduler.run()
     
 

@@ -4,17 +4,16 @@ import threading
 import logging
 from stream.iperfgen import IperfGen
 from stream.flowinfo import FlowInfo
-from typing import List
 S_TO_US = 1e6
 
 class FlowScheduler:
-    def __init__(self, duration_s : float, flows: list, p = 1):
+    def __init__(self, flows: list, duration_s : float, p = 1):
         """
         Start to generate flows.
         """
         self.threads = [threading.Thread(name=str(i), target=self.__start) for i in range(p)]
         self.flows = [[] for _ in range(p)]
-        self.duration_perf_count = duration_s * S_TO_US
+        self.duration_perf_count = int(duration_s * float(S_TO_US))
         # divide flows among cores.
         for idx, f in enumerate(flows):
             select = idx % p

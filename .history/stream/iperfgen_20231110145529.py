@@ -9,6 +9,7 @@ class IperfGen(FlowGenerator):
     def __init__(self):
         self.processes: List[multiprocessing.Process] = []
 
+
     def lauch_one_flow(self, flow : FlowInfo) -> None:
         id = flow.id
         size = flow.size
@@ -19,8 +20,8 @@ class IperfGen(FlowGenerator):
         process.start()
         self.processes.append(process)
 
-    def run_iperf(self, server_ip, server_port, size, output_file):
-        cmd = f"iperf -c {server_ip} -p {server_port} -n {size} -Z dctcp" # use dctcp as the congestion control algorithm
+    def run_iperf(self, server_ip, server_port, output_file):
+        cmd = f"iperf -c {server_ip} -p {server_port} -Z dctcp" # use dctcp as the congestion control algorithm
         with open(output_file, 'w') as file:
             subprocess.run(cmd.split(), stdout=file, stderr=subprocess.PIPE)
 

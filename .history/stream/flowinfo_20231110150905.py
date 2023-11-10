@@ -48,7 +48,7 @@ class FlowCollection:
             return (np.random.zipf(self.distribution_params[0], self.num) - 1) % (self.max_size - self.min_size + 1) + self.min_size 
         elif self.distribution == 'uniform':
             return np.random.uniform(self.min_size, self.max_size, self.num)
-        elif self.distribution in ['FacebookHadoop', 'AliStorage', 'GoogleRPC', 'WebSearch']:
+        elif self.distribution in ['FacebookHadoop', 'FacebookHadoop', 'FacebookHadoop', 'FacebookHadoop']:
             filename = 'scripts/cdf/' + self.distribution + '.txt'
             sizes = []
             percentiles = []

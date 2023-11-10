@@ -19,5 +19,5 @@ hadoopflow:
   num: 1000
   min_size : 64
   max_size : 100000000
-  distribution: WebSearch
+  distribution: FacebookHadoop
   distribution_params: []
