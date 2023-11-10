@@ -1,0 +1,8 @@
+giant:
+  num: 1
+
+sprite:
+  num: 100
+  min_size : 64
+  max_size : 102400
+  distribution: uniform

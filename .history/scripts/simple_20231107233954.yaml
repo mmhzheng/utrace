@@ -1,0 +1,7 @@
+giant:
+  num: 1
+
+sprite:
+  num: 100
+  min_size : 64
+  

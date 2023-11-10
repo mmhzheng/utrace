@@ -1,0 +1,200 @@
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=0, type=tcp, size=64)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=1, type=tcp, size=64)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=2, type=tcp, size=78)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=3, type=tcp, size=65)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=4, type=tcp, size=65)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=5, type=tcp, size=94)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=6, type=tcp, size=64)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=7, type=tcp, size=155)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=8, type=tcp, size=64)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=9, type=tcp, size=470)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=10, type=tcp, size=85)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=11, type=tcp, size=1232)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=12, type=tcp, size=19768)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=13, type=tcp, size=68)
+2023-11-08 18:42:16,682 - INFO - Generate flow: FlowInfo(id=14, type=tcp, size=11570)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=15, type=tcp, size=164)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=16, type=tcp, size=65)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=17, type=tcp, size=65)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=18, type=tcp, size=61339666)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=19, type=tcp, size=3194)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=20, type=tcp, size=14349056)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=21, type=tcp, size=215)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=22, type=tcp, size=24959513)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=23, type=tcp, size=64)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=24, type=tcp, size=380)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=25, type=tcp, size=64)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=26, type=tcp, size=119073)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=27, type=tcp, size=67)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=28, type=tcp, size=69)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=29, type=tcp, size=64)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=30, type=tcp, size=52149)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=31, type=tcp, size=301)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=32, type=tcp, size=64)
+2023-11-08 18:42:16,683 - INFO - Generate flow: FlowInfo(id=33, type=tcp, size=114)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=34, type=tcp, size=66)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=35, type=tcp, size=3710342)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=36, type=tcp, size=65)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=37, type=tcp, size=68)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=38, type=tcp, size=71)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=39, type=tcp, size=1251)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=40, type=tcp, size=837)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=41, type=tcp, size=66)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=42, type=tcp, size=77)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=43, type=tcp, size=38990)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=44, type=tcp, size=348)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=45, type=tcp, size=65)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=46, type=tcp, size=66)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=47, type=tcp, size=33077)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=48, type=tcp, size=18963)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=49, type=tcp, size=98)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=50, type=tcp, size=78)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=51, type=tcp, size=65)
+2023-11-08 18:42:16,684 - INFO - Generate flow: FlowInfo(id=52, type=tcp, size=67)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=53, type=tcp, size=73)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=54, type=tcp, size=74)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=55, type=tcp, size=18239842)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=56, type=tcp, size=64)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=57, type=tcp, size=67)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=58, type=tcp, size=8791)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=59, type=tcp, size=67)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=60, type=tcp, size=84)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=61, type=tcp, size=78)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=62, type=tcp, size=11616)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=63, type=tcp, size=86)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=64, type=tcp, size=369)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=65, type=tcp, size=193)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=66, type=tcp, size=1113)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=67, type=tcp, size=6625)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=68, type=tcp, size=545539)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=69, type=tcp, size=2667)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=70, type=tcp, size=50303)
+2023-11-08 18:42:16,685 - INFO - Generate flow: FlowInfo(id=71, type=tcp, size=72)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=72, type=tcp, size=316)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=73, type=tcp, size=65)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=74, type=tcp, size=64)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=75, type=tcp, size=69606)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=76, type=tcp, size=122)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=77, type=tcp, size=67)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=78, type=tcp, size=64)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=79, type=tcp, size=67)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=80, type=tcp, size=65)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=81, type=tcp, size=65)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=82, type=tcp, size=94)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=83, type=tcp, size=76)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=84, type=tcp, size=65)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=85, type=tcp, size=1714)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=86, type=tcp, size=642)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=87, type=tcp, size=734)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=88, type=tcp, size=65)
+2023-11-08 18:42:16,686 - INFO - Generate flow: FlowInfo(id=89, type=tcp, size=405)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=90, type=tcp, size=125)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=91, type=tcp, size=78)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=92, type=tcp, size=64)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=93, type=tcp, size=64)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=94, type=tcp, size=68)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=95, type=tcp, size=73)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=96, type=tcp, size=676)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=97, type=tcp, size=97)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=98, type=tcp, size=74)
+2023-11-08 18:42:16,687 - INFO - Generate flow: FlowInfo(id=99, type=tcp, size=96)
+2023-11-08 18:42:16,692 - DEBUG - [14966.187928646] thread 0 fork a flow : 0, 64 bytes
+2023-11-08 18:42:16,693 - DEBUG - [14966.188927781] thread 0 fork a flow : 1, 64 bytes
+2023-11-08 18:42:16,694 - DEBUG - [14966.189927574] thread 0 fork a flow : 2, 78 bytes
+2023-11-08 18:42:16,695 - DEBUG - [14966.190927733] thread 0 fork a flow : 3, 65 bytes
+2023-11-08 18:42:16,696 - DEBUG - [14966.191927671] thread 0 fork a flow : 4, 65 bytes
+2023-11-08 18:42:16,697 - DEBUG - [14966.192927661] thread 0 fork a flow : 5, 94 bytes
+2023-11-08 18:42:16,698 - DEBUG - [14966.193927648] thread 0 fork a flow : 6, 64 bytes
+2023-11-08 18:42:16,699 - DEBUG - [14966.194927852] thread 0 fork a flow : 7, 155 bytes
+2023-11-08 18:42:16,700 - DEBUG - [14966.195927736] thread 0 fork a flow : 8, 64 bytes
+2023-11-08 18:42:16,701 - DEBUG - [14966.196927695] thread 0 fork a flow : 9, 470 bytes
+2023-11-08 18:42:16,702 - DEBUG - [14966.19792767] thread 0 fork a flow : 10, 85 bytes
+2023-11-08 18:42:16,703 - DEBUG - [14966.198927895] thread 0 fork a flow : 11, 1232 bytes
+2023-11-08 18:42:16,704 - DEBUG - [14966.199927638] thread 0 fork a flow : 12, 19768 bytes
+2023-11-08 18:42:16,705 - DEBUG - [14966.20092854] thread 0 fork a flow : 13, 68 bytes
+2023-11-08 18:42:16,706 - DEBUG - [14966.201928855] thread 0 fork a flow : 14, 11570 bytes
+2023-11-08 18:42:16,707 - DEBUG - [14966.202928205] thread 0 fork a flow : 15, 164 bytes
+2023-11-08 18:42:16,708 - DEBUG - [14966.203928624] thread 0 fork a flow : 16, 65 bytes
+2023-11-08 18:42:16,709 - DEBUG - [14966.204927647] thread 0 fork a flow : 17, 65 bytes
+2023-11-08 18:42:16,710 - DEBUG - [14966.205928033] thread 0 fork a flow : 18, 61339666 bytes
+2023-11-08 18:42:16,711 - DEBUG - [14966.206927903] thread 0 fork a flow : 19, 3194 bytes
+2023-11-08 18:42:16,712 - DEBUG - [14966.207927979] thread 0 fork a flow : 20, 14349056 bytes
+2023-11-08 18:42:16,713 - DEBUG - [14966.208928563] thread 0 fork a flow : 21, 215 bytes
+2023-11-08 18:42:16,714 - DEBUG - [14966.209927928] thread 0 fork a flow : 22, 24959513 bytes
+2023-11-08 18:42:16,715 - DEBUG - [14966.210927692] thread 0 fork a flow : 23, 64 bytes
+2023-11-08 18:42:16,716 - DEBUG - [14966.211927822] thread 0 fork a flow : 24, 380 bytes
+2023-11-08 18:42:16,717 - DEBUG - [14966.212927741] thread 0 fork a flow : 25, 64 bytes
+2023-11-08 18:42:16,718 - DEBUG - [14966.213927676] thread 0 fork a flow : 26, 119073 bytes
+2023-11-08 18:42:16,719 - DEBUG - [14966.214927682] thread 0 fork a flow : 27, 67 bytes
+2023-11-08 18:42:16,720 - DEBUG - [14966.215927717] thread 0 fork a flow : 28, 69 bytes
+2023-11-08 18:42:16,721 - DEBUG - [14966.216927698] thread 0 fork a flow : 29, 64 bytes
+2023-11-08 18:42:16,722 - DEBUG - [14966.217927695] thread 0 fork a flow : 30, 52149 bytes
+2023-11-08 18:42:16,723 - DEBUG - [14966.218927657] thread 0 fork a flow : 31, 301 bytes
+2023-11-08 18:42:16,724 - DEBUG - [14966.219927946] thread 0 fork a flow : 32, 64 bytes
+2023-11-08 18:42:16,725 - DEBUG - [14966.220927674] thread 0 fork a flow : 33, 114 bytes
+2023-11-08 18:42:16,726 - DEBUG - [14966.221927783] thread 0 fork a flow : 34, 66 bytes
+2023-11-08 18:42:16,727 - DEBUG - [14966.222927876] thread 0 fork a flow : 35, 3710342 bytes
+2023-11-08 18:42:16,728 - DEBUG - [14966.223927651] thread 0 fork a flow : 36, 65 bytes
+2023-11-08 18:42:16,729 - DEBUG - [14966.224927742] thread 0 fork a flow : 37, 68 bytes
+2023-11-08 18:42:16,730 - DEBUG - [14966.225928004] thread 0 fork a flow : 38, 71 bytes
+2023-11-08 18:42:16,731 - DEBUG - [14966.226928065] thread 0 fork a flow : 39, 1251 bytes
+2023-11-08 18:42:16,732 - DEBUG - [14966.227927689] thread 0 fork a flow : 40, 837 bytes
+2023-11-08 18:42:16,733 - DEBUG - [14966.228927662] thread 0 fork a flow : 41, 66 bytes
+2023-11-08 18:42:16,734 - DEBUG - [14966.22992776] thread 0 fork a flow : 42, 77 bytes
+2023-11-08 18:42:16,735 - DEBUG - [14966.230927646] thread 0 fork a flow : 43, 38990 bytes
+2023-11-08 18:42:16,736 - DEBUG - [14966.231927666] thread 0 fork a flow : 44, 348 bytes
+2023-11-08 18:42:16,737 - DEBUG - [14966.232927594] thread 0 fork a flow : 45, 65 bytes
+2023-11-08 18:42:16,738 - DEBUG - [14966.233927917] thread 0 fork a flow : 46, 66 bytes
+2023-11-08 18:42:16,739 - DEBUG - [14966.234927573] thread 0 fork a flow : 47, 33077 bytes
+2023-11-08 18:42:16,740 - DEBUG - [14966.235927823] thread 0 fork a flow : 48, 18963 bytes
+2023-11-08 18:42:16,741 - DEBUG - [14966.236927587] thread 0 fork a flow : 49, 98 bytes
+2023-11-08 18:42:16,742 - DEBUG - [14966.237927788] thread 0 fork a flow : 50, 78 bytes
+2023-11-08 18:42:16,743 - DEBUG - [14966.238927879] thread 0 fork a flow : 51, 65 bytes
+2023-11-08 18:42:16,744 - DEBUG - [14966.23992757] thread 0 fork a flow : 52, 67 bytes
+2023-11-08 18:42:16,745 - DEBUG - [14966.240927584] thread 0 fork a flow : 53, 73 bytes
+2023-11-08 18:42:16,746 - DEBUG - [14966.241927597] thread 0 fork a flow : 54, 74 bytes
+2023-11-08 18:42:16,747 - DEBUG - [14966.242927742] thread 0 fork a flow : 55, 18239842 bytes
+2023-11-08 18:42:16,748 - DEBUG - [14966.243927631] thread 0 fork a flow : 56, 64 bytes
+2023-11-08 18:42:16,749 - DEBUG - [14966.24492757] thread 0 fork a flow : 57, 67 bytes
+2023-11-08 18:42:16,750 - DEBUG - [14966.245927692] thread 0 fork a flow : 58, 8791 bytes
+2023-11-08 18:42:16,751 - DEBUG - [14966.246927728] thread 0 fork a flow : 59, 67 bytes
+2023-11-08 18:42:16,752 - DEBUG - [14966.247927586] thread 0 fork a flow : 60, 84 bytes
+2023-11-08 18:42:16,753 - DEBUG - [14966.248927574] thread 0 fork a flow : 61, 78 bytes
+2023-11-08 18:42:16,754 - DEBUG - [14966.249927863] thread 0 fork a flow : 62, 11616 bytes
+2023-11-08 18:42:16,755 - DEBUG - [14966.250927707] thread 0 fork a flow : 63, 86 bytes
+2023-11-08 18:42:16,756 - DEBUG - [14966.251927739] thread 0 fork a flow : 64, 369 bytes
+2023-11-08 18:42:16,757 - DEBUG - [14966.252927548] thread 0 fork a flow : 65, 193 bytes
+2023-11-08 18:42:16,758 - DEBUG - [14966.253927646] thread 0 fork a flow : 66, 1113 bytes
+2023-11-08 18:42:16,759 - DEBUG - [14966.254927827] thread 0 fork a flow : 67, 6625 bytes
+2023-11-08 18:42:16,760 - DEBUG - [14966.255927629] thread 0 fork a flow : 68, 545539 bytes
+2023-11-08 18:42:16,761 - DEBUG - [14966.256927533] thread 0 fork a flow : 69, 2667 bytes
+2023-11-08 18:42:16,762 - DEBUG - [14966.257927553] thread 0 fork a flow : 70, 50303 bytes
+2023-11-08 18:42:16,763 - DEBUG - [14966.258927719] thread 0 fork a flow : 71, 72 bytes
+2023-11-08 18:42:16,764 - DEBUG - [14966.259927635] thread 0 fork a flow : 72, 316 bytes
+2023-11-08 18:42:16,765 - DEBUG - [14966.260927518] thread 0 fork a flow : 73, 65 bytes
+2023-11-08 18:42:16,766 - DEBUG - [14966.26192775] thread 0 fork a flow : 74, 64 bytes
+2023-11-08 18:42:16,767 - DEBUG - [14966.262927764] thread 0 fork a flow : 75, 69606 bytes
+2023-11-08 18:42:16,768 - DEBUG - [14966.26392762] thread 0 fork a flow : 76, 122 bytes
+2023-11-08 18:42:16,769 - DEBUG - [14966.264927547] thread 0 fork a flow : 77, 67 bytes
+2023-11-08 18:42:16,770 - DEBUG - [14966.265927866] thread 0 fork a flow : 78, 64 bytes
+2023-11-08 18:42:16,771 - DEBUG - [14966.266927834] thread 0 fork a flow : 79, 67 bytes
+2023-11-08 18:42:16,772 - DEBUG - [14966.267928123] thread 0 fork a flow : 80, 65 bytes
+2023-11-08 18:42:16,773 - DEBUG - [14966.268927822] thread 0 fork a flow : 81, 65 bytes
+2023-11-08 18:42:16,774 - DEBUG - [14966.269927485] thread 0 fork a flow : 82, 94 bytes
+2023-11-08 18:42:16,775 - DEBUG - [14966.270928158] thread 0 fork a flow : 83, 76 bytes
+2023-11-08 18:42:16,776 - DEBUG - [14966.271927892] thread 0 fork a flow : 84, 65 bytes
+2023-11-08 18:42:16,777 - DEBUG - [14966.272927618] thread 0 fork a flow : 85, 1714 bytes
+2023-11-08 18:42:16,778 - DEBUG - [14966.273927655] thread 0 fork a flow : 86, 642 bytes
+2023-11-08 18:42:16,779 - DEBUG - [14966.274927739] thread 0 fork a flow : 87, 734 bytes
+2023-11-08 18:42:16,780 - DEBUG - [14966.275927606] thread 0 fork a flow : 88, 65 bytes
+2023-11-08 18:42:16,781 - DEBUG - [14966.276927604] thread 0 fork a flow : 89, 405 bytes
+2023-11-08 18:42:16,782 - DEBUG - [14966.277927592] thread 0 fork a flow : 90, 125 bytes
+2023-11-08 18:42:16,783 - DEBUG - [14966.278927591] thread 0 fork a flow : 91, 78 bytes
+2023-11-08 18:42:16,784 - DEBUG - [14966.279927678] thread 0 fork a flow : 92, 64 bytes
+2023-11-08 18:42:16,785 - DEBUG - [14966.280927639] thread 0 fork a flow : 93, 64 bytes
+2023-11-08 18:42:16,786 - DEBUG - [14966.281927773] thread 0 fork a flow : 94, 68 bytes
+2023-11-08 18:42:16,787 - DEBUG - [14966.282927698] thread 0 fork a flow : 95, 73 bytes
+2023-11-08 18:42:16,788 - DEBUG - [14966.283927847] thread 0 fork a flow : 96, 676 bytes
+2023-11-08 18:42:16,789 - DEBUG - [14966.284927611] thread 0 fork a flow : 97, 97 bytes
+2023-11-08 18:42:16,790 - DEBUG - [14966.285927652] thread 0 fork a flow : 98, 74 bytes
+2023-11-08 18:42:16,791 - DEBUG - [14966.286927636] thread 0 fork a flow : 99, 96 bytes

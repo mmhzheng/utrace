@@ -1,0 +1,300 @@
+2023-11-08 21:55:26,632 - INFO - Generate flow: FlowInfo(id=0, type=tcp, size=65)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=1, type=tcp, size=16933985)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=2, type=tcp, size=64)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=3, type=tcp, size=64)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=4, type=tcp, size=484322)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=5, type=tcp, size=95)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=6, type=tcp, size=27402139)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=7, type=tcp, size=67)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=8, type=tcp, size=11072319)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=9, type=tcp, size=1251)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=10, type=tcp, size=27105)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=11, type=tcp, size=65)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=12, type=tcp, size=144412)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=13, type=tcp, size=13955)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=14, type=tcp, size=351037)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=15, type=tcp, size=68)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=16, type=tcp, size=64)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=17, type=tcp, size=64)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=18, type=tcp, size=113)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=19, type=tcp, size=96441)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=20, type=tcp, size=124)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=21, type=tcp, size=16153)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=22, type=tcp, size=64)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=23, type=tcp, size=64)
+2023-11-08 21:55:26,633 - INFO - Generate flow: FlowInfo(id=24, type=tcp, size=267)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=25, type=tcp, size=75118)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=26, type=tcp, size=102)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=27, type=tcp, size=69)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=28, type=tcp, size=33093)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=29, type=tcp, size=228)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=30, type=tcp, size=69)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=31, type=tcp, size=137)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=32, type=tcp, size=70)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=33, type=tcp, size=246)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=34, type=tcp, size=70)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=35, type=tcp, size=96)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=36, type=tcp, size=64)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=37, type=tcp, size=67)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=38, type=tcp, size=77931)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=39, type=tcp, size=72)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=40, type=tcp, size=67)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=41, type=tcp, size=164)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=42, type=tcp, size=1275)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=43, type=tcp, size=73)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=44, type=tcp, size=3931)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=45, type=tcp, size=171)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=46, type=tcp, size=65)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=47, type=tcp, size=65)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=48, type=tcp, size=82)
+2023-11-08 21:55:26,634 - INFO - Generate flow: FlowInfo(id=49, type=tcp, size=64)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=50, type=tcp, size=76)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=51, type=tcp, size=2010)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=52, type=tcp, size=220)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=53, type=tcp, size=67)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=54, type=tcp, size=99177699)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=55, type=tcp, size=68)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=56, type=tcp, size=102)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=57, type=tcp, size=80)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=58, type=tcp, size=64)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=59, type=tcp, size=66)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=60, type=tcp, size=82)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=61, type=tcp, size=163)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=62, type=tcp, size=67)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=63, type=tcp, size=79)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=64, type=tcp, size=156)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=65, type=tcp, size=71213)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=66, type=tcp, size=65)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=67, type=tcp, size=3046098)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=68, type=tcp, size=64)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=69, type=tcp, size=127)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=70, type=tcp, size=65)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=71, type=tcp, size=418)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=72, type=tcp, size=67)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=73, type=tcp, size=64)
+2023-11-08 21:55:26,635 - INFO - Generate flow: FlowInfo(id=74, type=tcp, size=64)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=75, type=tcp, size=64)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=76, type=tcp, size=97)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=77, type=tcp, size=91)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=78, type=tcp, size=37246)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=79, type=tcp, size=201340)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=80, type=tcp, size=103)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=81, type=tcp, size=5416)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=82, type=tcp, size=77)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=83, type=tcp, size=64)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=84, type=tcp, size=67)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=85, type=tcp, size=65)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=86, type=tcp, size=87)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=87, type=tcp, size=2883410)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=88, type=tcp, size=64)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=89, type=tcp, size=7800)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=90, type=tcp, size=65)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=91, type=tcp, size=66)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=92, type=tcp, size=64)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=93, type=tcp, size=2505)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=94, type=tcp, size=69)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=95, type=tcp, size=1366)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=96, type=tcp, size=68)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=97, type=tcp, size=66)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=98, type=tcp, size=65)
+2023-11-08 21:55:26,636 - INFO - Generate flow: FlowInfo(id=99, type=tcp, size=66)
+2023-11-08 21:55:26,641 - DEBUG - Iperf flow 0 with size 65 bytes start
+2023-11-08 21:55:26,641 - DEBUG - [26556.136340686] thread 0 fork a flow : 0, 65 bytes
+2023-11-08 21:55:26,643 - DEBUG - Iperf flow 2 with size 64 bytes start
+2023-11-08 21:55:26,643 - DEBUG - [26556.138334884] thread 0 fork a flow : 2, 64 bytes
+2023-11-08 21:55:26,645 - DEBUG - Iperf flow 4 with size 484322 bytes start
+2023-11-08 21:55:26,645 - DEBUG - [26556.140294404] thread 0 fork a flow : 4, 484322 bytes
+2023-11-08 21:55:26,647 - DEBUG - Iperf flow 6 with size 27402139 bytes start
+2023-11-08 21:55:26,647 - DEBUG - Iperf flow 1 with size 16933985 bytes start
+2023-11-08 21:55:26,647 - DEBUG - [26556.142643223] thread 1 fork a flow : 1, 16933985 bytes
+2023-11-08 21:55:26,649 - DEBUG - Iperf flow 3 with size 64 bytes start
+2023-11-08 21:55:26,649 - DEBUG - [26556.144583343] thread 1 fork a flow : 3, 64 bytes
+2023-11-08 21:55:26,651 - DEBUG - Iperf flow 5 with size 95 bytes start
+2023-11-08 21:55:26,651 - DEBUG - [26556.146573655] thread 1 fork a flow : 5, 95 bytes
+2023-11-08 21:55:26,653 - DEBUG - Iperf flow 7 with size 67 bytes start
+2023-11-08 21:55:26,653 - DEBUG - [26556.148563441] thread 1 fork a flow : 7, 67 bytes
+2023-11-08 21:55:26,655 - DEBUG - Iperf flow 9 with size 1251 bytes start
+2023-11-08 21:55:26,655 - DEBUG - [26556.150589756] thread 1 fork a flow : 9, 1251 bytes
+2023-11-08 21:55:26,647 - DEBUG - [26556.142600454] thread 0 fork a flow : 6, 27402139 bytes
+2023-11-08 21:55:26,657 - DEBUG - Iperf flow 8 with size 11072319 bytes start
+2023-11-08 21:55:26,657 - DEBUG - [26556.152654254] thread 0 fork a flow : 8, 11072319 bytes
+2023-11-08 21:55:26,657 - DEBUG - Iperf flow 10 with size 27105 bytes start
+2023-11-08 21:55:26,657 - DEBUG - [26556.152736212] thread 0 fork a flow : 10, 27105 bytes
+2023-11-08 21:55:26,657 - DEBUG - Iperf flow 12 with size 144412 bytes start
+2023-11-08 21:55:26,657 - DEBUG - [26556.152815395] thread 0 fork a flow : 12, 144412 bytes
+2023-11-08 21:55:26,657 - DEBUG - Iperf flow 14 with size 351037 bytes start
+2023-11-08 21:55:26,657 - DEBUG - [26556.152894879] thread 0 fork a flow : 14, 351037 bytes
+2023-11-08 21:55:26,657 - DEBUG - Iperf flow 16 with size 64 bytes start
+2023-11-08 21:55:26,657 - DEBUG - [26556.152971814] thread 0 fork a flow : 16, 64 bytes
+2023-11-08 21:55:26,659 - DEBUG - Iperf flow 18 with size 113 bytes start
+2023-11-08 21:55:26,659 - DEBUG - [26556.154311583] thread 0 fork a flow : 18, 113 bytes
+2023-11-08 21:55:26,661 - DEBUG - Iperf flow 20 with size 124 bytes start
+2023-11-08 21:55:26,661 - DEBUG - [26556.156418653] thread 0 fork a flow : 20, 124 bytes
+2023-11-08 21:55:26,663 - DEBUG - Iperf flow 22 with size 64 bytes start
+2023-11-08 21:55:26,663 - DEBUG - [26556.158385943] thread 0 fork a flow : 22, 64 bytes
+2023-11-08 21:55:26,665 - DEBUG - Iperf flow 24 with size 267 bytes start
+2023-11-08 21:55:26,665 - DEBUG - [26556.160444075] thread 0 fork a flow : 24, 267 bytes
+2023-11-08 21:55:26,657 - DEBUG - Iperf flow 11 with size 65 bytes start
+2023-11-08 21:55:26,667 - DEBUG - [26556.162331681] thread 1 fork a flow : 11, 65 bytes
+2023-11-08 21:55:26,667 - DEBUG - Iperf flow 13 with size 13955 bytes start
+2023-11-08 21:55:26,667 - DEBUG - [26556.162426871] thread 1 fork a flow : 13, 13955 bytes
+2023-11-08 21:55:26,667 - DEBUG - Iperf flow 15 with size 68 bytes start
+2023-11-08 21:55:26,667 - DEBUG - [26556.162508545] thread 1 fork a flow : 15, 68 bytes
+2023-11-08 21:55:26,667 - DEBUG - Iperf flow 17 with size 64 bytes start
+2023-11-08 21:55:26,667 - DEBUG - [26556.162590605] thread 1 fork a flow : 17, 64 bytes
+2023-11-08 21:55:26,667 - DEBUG - Iperf flow 19 with size 96441 bytes start
+2023-11-08 21:55:26,667 - DEBUG - [26556.162669781] thread 1 fork a flow : 19, 96441 bytes
+2023-11-08 21:55:26,667 - DEBUG - Iperf flow 21 with size 16153 bytes start
+2023-11-08 21:55:26,667 - DEBUG - [26556.162746972] thread 1 fork a flow : 21, 16153 bytes
+2023-11-08 21:55:26,669 - DEBUG - Iperf flow 23 with size 64 bytes start
+2023-11-08 21:55:26,669 - DEBUG - [26556.164651935] thread 1 fork a flow : 23, 64 bytes
+2023-11-08 21:55:26,671 - DEBUG - Iperf flow 25 with size 75118 bytes start
+2023-11-08 21:55:26,671 - DEBUG - [26556.16657295] thread 1 fork a flow : 25, 75118 bytes
+2023-11-08 21:55:26,673 - DEBUG - Iperf flow 27 with size 69 bytes start
+2023-11-08 21:55:26,673 - DEBUG - [26556.168621508] thread 1 fork a flow : 27, 69 bytes
+2023-11-08 21:55:26,675 - DEBUG - Iperf flow 29 with size 228 bytes start
+2023-11-08 21:55:26,675 - DEBUG - [26556.170660345] thread 1 fork a flow : 29, 228 bytes
+2023-11-08 21:55:26,677 - DEBUG - Iperf flow 31 with size 137 bytes start
+2023-11-08 21:55:26,667 - DEBUG - Iperf flow 26 with size 102 bytes start
+2023-11-08 21:55:26,677 - DEBUG - [26556.172901045] thread 0 fork a flow : 26, 102 bytes
+2023-11-08 21:55:26,677 - DEBUG - Iperf flow 28 with size 33093 bytes start
+2023-11-08 21:55:26,677 - DEBUG - [26556.172986192] thread 0 fork a flow : 28, 33093 bytes
+2023-11-08 21:55:26,678 - DEBUG - Iperf flow 30 with size 69 bytes start
+2023-11-08 21:55:26,678 - DEBUG - [26556.173062319] thread 0 fork a flow : 30, 69 bytes
+2023-11-08 21:55:26,678 - DEBUG - Iperf flow 32 with size 70 bytes start
+2023-11-08 21:55:26,678 - DEBUG - [26556.173137873] thread 0 fork a flow : 32, 70 bytes
+2023-11-08 21:55:26,678 - DEBUG - Iperf flow 34 with size 70 bytes start
+2023-11-08 21:55:26,678 - DEBUG - [26556.173212054] thread 0 fork a flow : 34, 70 bytes
+2023-11-08 21:55:26,678 - DEBUG - Iperf flow 36 with size 64 bytes start
+2023-11-08 21:55:26,678 - DEBUG - [26556.173285531] thread 0 fork a flow : 36, 64 bytes
+2023-11-08 21:55:26,679 - DEBUG - Iperf flow 38 with size 77931 bytes start
+2023-11-08 21:55:26,679 - DEBUG - [26556.174293249] thread 0 fork a flow : 38, 77931 bytes
+2023-11-08 21:55:26,681 - DEBUG - Iperf flow 40 with size 67 bytes start
+2023-11-08 21:55:26,681 - DEBUG - [26556.176318415] thread 0 fork a flow : 40, 67 bytes
+2023-11-08 21:55:26,683 - DEBUG - Iperf flow 42 with size 1275 bytes start
+2023-11-08 21:55:26,683 - DEBUG - [26556.178327592] thread 0 fork a flow : 42, 1275 bytes
+2023-11-08 21:55:26,685 - DEBUG - Iperf flow 44 with size 3931 bytes start
+2023-11-08 21:55:26,685 - DEBUG - [26556.180316823] thread 0 fork a flow : 44, 3931 bytes
+2023-11-08 21:55:26,687 - DEBUG - Iperf flow 46 with size 65 bytes start
+2023-11-08 21:55:26,677 - DEBUG - [26556.172841946] thread 1 fork a flow : 31, 137 bytes
+2023-11-08 21:55:26,687 - DEBUG - Iperf flow 33 with size 246 bytes start
+2023-11-08 21:55:26,687 - DEBUG - [26556.182396624] thread 1 fork a flow : 33, 246 bytes
+2023-11-08 21:55:26,687 - DEBUG - Iperf flow 35 with size 96 bytes start
+2023-11-08 21:55:26,687 - DEBUG - [26556.18247249] thread 1 fork a flow : 35, 96 bytes
+2023-11-08 21:55:26,687 - DEBUG - Iperf flow 37 with size 67 bytes start
+2023-11-08 21:55:26,687 - DEBUG - [26556.182549108] thread 1 fork a flow : 37, 67 bytes
+2023-11-08 21:55:26,687 - DEBUG - Iperf flow 39 with size 72 bytes start
+2023-11-08 21:55:26,687 - DEBUG - [26556.182624729] thread 1 fork a flow : 39, 72 bytes
+2023-11-08 21:55:26,687 - DEBUG - Iperf flow 41 with size 164 bytes start
+2023-11-08 21:55:26,687 - DEBUG - [26556.182698022] thread 1 fork a flow : 41, 164 bytes
+2023-11-08 21:55:26,689 - DEBUG - Iperf flow 43 with size 73 bytes start
+2023-11-08 21:55:26,689 - DEBUG - [26556.184575042] thread 1 fork a flow : 43, 73 bytes
+2023-11-08 21:55:26,691 - DEBUG - Iperf flow 45 with size 171 bytes start
+2023-11-08 21:55:26,691 - DEBUG - [26556.186707213] thread 1 fork a flow : 45, 171 bytes
+2023-11-08 21:55:26,693 - DEBUG - Iperf flow 47 with size 65 bytes start
+2023-11-08 21:55:26,693 - DEBUG - [26556.188603038] thread 1 fork a flow : 47, 65 bytes
+2023-11-08 21:55:26,695 - DEBUG - Iperf flow 49 with size 64 bytes start
+2023-11-08 21:55:26,695 - DEBUG - [26556.190610594] thread 1 fork a flow : 49, 64 bytes
+2023-11-08 21:55:26,697 - DEBUG - Iperf flow 51 with size 2010 bytes start
+2023-11-08 21:55:26,687 - DEBUG - [26556.182306107] thread 0 fork a flow : 46, 65 bytes
+2023-11-08 21:55:26,697 - DEBUG - Iperf flow 48 with size 82 bytes start
+2023-11-08 21:55:26,697 - DEBUG - [26556.192725613] thread 0 fork a flow : 48, 82 bytes
+2023-11-08 21:55:26,697 - DEBUG - Iperf flow 50 with size 76 bytes start
+2023-11-08 21:55:26,697 - DEBUG - [26556.192813292] thread 0 fork a flow : 50, 76 bytes
+2023-11-08 21:55:26,697 - DEBUG - Iperf flow 52 with size 220 bytes start
+2023-11-08 21:55:26,697 - DEBUG - [26556.192890429] thread 0 fork a flow : 52, 220 bytes
+2023-11-08 21:55:26,697 - DEBUG - Iperf flow 54 with size 99177699 bytes start
+2023-11-08 21:55:26,697 - DEBUG - [26556.192965103] thread 0 fork a flow : 54, 99177699 bytes
+2023-11-08 21:55:26,697 - DEBUG - Iperf flow 56 with size 102 bytes start
+2023-11-08 21:55:26,698 - DEBUG - [26556.193039303] thread 0 fork a flow : 56, 102 bytes
+2023-11-08 21:55:26,699 - DEBUG - Iperf flow 58 with size 64 bytes start
+2023-11-08 21:55:26,699 - DEBUG - [26556.194354321] thread 0 fork a flow : 58, 64 bytes
+2023-11-08 21:55:26,701 - DEBUG - Iperf flow 60 with size 82 bytes start
+2023-11-08 21:55:26,701 - DEBUG - [26556.196350293] thread 0 fork a flow : 60, 82 bytes
+2023-11-08 21:55:26,703 - DEBUG - Iperf flow 62 with size 67 bytes start
+2023-11-08 21:55:26,703 - DEBUG - [26556.198322271] thread 0 fork a flow : 62, 67 bytes
+2023-11-08 21:55:26,705 - DEBUG - Iperf flow 64 with size 156 bytes start
+2023-11-08 21:55:26,705 - DEBUG - [26556.200386378] thread 0 fork a flow : 64, 156 bytes
+2023-11-08 21:55:26,697 - DEBUG - [26556.192628768] thread 1 fork a flow : 51, 2010 bytes
+2023-11-08 21:55:26,707 - DEBUG - Iperf flow 53 with size 67 bytes start
+2023-11-08 21:55:26,707 - DEBUG - [26556.202438418] thread 1 fork a flow : 53, 67 bytes
+2023-11-08 21:55:26,707 - DEBUG - Iperf flow 55 with size 68 bytes start
+2023-11-08 21:55:26,707 - DEBUG - [26556.202520877] thread 1 fork a flow : 55, 68 bytes
+2023-11-08 21:55:26,707 - DEBUG - Iperf flow 57 with size 80 bytes start
+2023-11-08 21:55:26,707 - DEBUG - [26556.202597089] thread 1 fork a flow : 57, 80 bytes
+2023-11-08 21:55:26,707 - DEBUG - Iperf flow 59 with size 66 bytes start
+2023-11-08 21:55:26,707 - DEBUG - [26556.20267357] thread 1 fork a flow : 59, 66 bytes
+2023-11-08 21:55:26,707 - DEBUG - Iperf flow 61 with size 163 bytes start
+2023-11-08 21:55:26,707 - DEBUG - [26556.202750415] thread 1 fork a flow : 61, 163 bytes
+2023-11-08 21:55:26,709 - DEBUG - Iperf flow 63 with size 79 bytes start
+2023-11-08 21:55:26,709 - DEBUG - [26556.204594469] thread 1 fork a flow : 63, 79 bytes
+2023-11-08 21:55:26,711 - DEBUG - Iperf flow 65 with size 71213 bytes start
+2023-11-08 21:55:26,711 - DEBUG - [26556.206611833] thread 1 fork a flow : 65, 71213 bytes
+2023-11-08 21:55:26,713 - DEBUG - Iperf flow 67 with size 3046098 bytes start
+2023-11-08 21:55:26,713 - DEBUG - [26556.208592693] thread 1 fork a flow : 67, 3046098 bytes
+2023-11-08 21:55:26,715 - DEBUG - Iperf flow 69 with size 127 bytes start
+2023-11-08 21:55:26,715 - DEBUG - [26556.21057729] thread 1 fork a flow : 69, 127 bytes
+2023-11-08 21:55:26,717 - DEBUG - Iperf flow 71 with size 418 bytes start
+2023-11-08 21:55:26,707 - DEBUG - Iperf flow 66 with size 65 bytes start
+2023-11-08 21:55:26,717 - DEBUG - [26556.212639661] thread 0 fork a flow : 66, 65 bytes
+2023-11-08 21:55:26,717 - DEBUG - Iperf flow 68 with size 64 bytes start
+2023-11-08 21:55:26,717 - DEBUG - [26556.212714796] thread 0 fork a flow : 68, 64 bytes
+2023-11-08 21:55:26,717 - DEBUG - Iperf flow 70 with size 65 bytes start
+2023-11-08 21:55:26,717 - DEBUG - [26556.21276401] thread 0 fork a flow : 70, 65 bytes
+2023-11-08 21:55:26,717 - DEBUG - Iperf flow 72 with size 67 bytes start
+2023-11-08 21:55:26,717 - DEBUG - [26556.212808327] thread 0 fork a flow : 72, 67 bytes
+2023-11-08 21:55:26,717 - DEBUG - Iperf flow 74 with size 64 bytes start
+2023-11-08 21:55:26,717 - DEBUG - [26556.212850695] thread 0 fork a flow : 74, 64 bytes
+2023-11-08 21:55:26,717 - DEBUG - Iperf flow 76 with size 97 bytes start
+2023-11-08 21:55:26,717 - DEBUG - [26556.212892242] thread 0 fork a flow : 76, 97 bytes
+2023-11-08 21:55:26,717 - DEBUG - [26556.21258958] thread 1 fork a flow : 71, 418 bytes
+2023-11-08 21:55:26,719 - DEBUG - Iperf flow 78 with size 37246 bytes start
+2023-11-08 21:55:26,719 - DEBUG - Iperf flow 73 with size 64 bytes start
+2023-11-08 21:55:26,719 - DEBUG - [26556.214664064] thread 0 fork a flow : 78, 37246 bytes
+2023-11-08 21:55:26,719 - DEBUG - [26556.214785275] thread 1 fork a flow : 73, 64 bytes
+2023-11-08 21:55:26,721 - DEBUG - Iperf flow 80 with size 103 bytes start
+2023-11-08 21:55:26,721 - DEBUG - Iperf flow 75 with size 64 bytes start
+2023-11-08 21:55:26,721 - DEBUG - [26556.216672054] thread 0 fork a flow : 80, 103 bytes
+2023-11-08 21:55:26,721 - DEBUG - [26556.216792328] thread 1 fork a flow : 75, 64 bytes
+2023-11-08 21:55:26,723 - DEBUG - Iperf flow 82 with size 77 bytes start
+2023-11-08 21:55:26,723 - DEBUG - [26556.218729594] thread 0 fork a flow : 82, 77 bytes
+2023-11-08 21:55:26,723 - DEBUG - Iperf flow 77 with size 91 bytes start
+2023-11-08 21:55:26,725 - DEBUG - [26556.220452425] thread 1 fork a flow : 77, 91 bytes
+2023-11-08 21:55:26,725 - DEBUG - Iperf flow 79 with size 201340 bytes start
+2023-11-08 21:55:26,725 - DEBUG - [26556.220598679] thread 1 fork a flow : 79, 201340 bytes
+2023-11-08 21:55:26,725 - DEBUG - Iperf flow 84 with size 67 bytes start
+2023-11-08 21:55:26,727 - DEBUG - [26556.222728976] thread 0 fork a flow : 84, 67 bytes
+2023-11-08 21:55:26,727 - DEBUG - Iperf flow 86 with size 87 bytes start
+2023-11-08 21:55:26,727 - DEBUG - [26556.222789697] thread 0 fork a flow : 86, 87 bytes
+2023-11-08 21:55:26,727 - DEBUG - Iperf flow 81 with size 5416 bytes start
+2023-11-08 21:55:26,729 - DEBUG - [26556.224450508] thread 1 fork a flow : 81, 5416 bytes
+2023-11-08 21:55:26,729 - DEBUG - Iperf flow 83 with size 64 bytes start
+2023-11-08 21:55:26,729 - DEBUG - [26556.224572261] thread 1 fork a flow : 83, 64 bytes
+2023-11-08 21:55:26,729 - DEBUG - Iperf flow 88 with size 64 bytes start
+2023-11-08 21:55:26,731 - DEBUG - [26556.226710005] thread 0 fork a flow : 88, 64 bytes
+2023-11-08 21:55:26,731 - DEBUG - Iperf flow 90 with size 65 bytes start
+2023-11-08 21:55:26,731 - DEBUG - [26556.226786904] thread 0 fork a flow : 90, 65 bytes
+2023-11-08 21:55:26,731 - DEBUG - Iperf flow 85 with size 65 bytes start
+2023-11-08 21:55:26,733 - DEBUG - [26556.228453075] thread 1 fork a flow : 85, 65 bytes
+2023-11-08 21:55:26,733 - DEBUG - Iperf flow 87 with size 2883410 bytes start
+2023-11-08 21:55:26,733 - DEBUG - Iperf flow 92 with size 64 bytes start
+2023-11-08 21:55:26,733 - DEBUG - [26556.228656921] thread 0 fork a flow : 92, 64 bytes
+2023-11-08 21:55:26,733 - DEBUG - [26556.228564228] thread 1 fork a flow : 87, 2883410 bytes
+2023-11-08 21:55:26,735 - DEBUG - Iperf flow 94 with size 69 bytes start
+2023-11-08 21:55:26,735 - DEBUG - Iperf flow 89 with size 7800 bytes start
+2023-11-08 21:55:26,735 - DEBUG - [26556.230807452] thread 1 fork a flow : 89, 7800 bytes
+2023-11-08 21:55:26,735 - DEBUG - [26556.230621682] thread 0 fork a flow : 94, 69 bytes
+2023-11-08 21:55:26,737 - DEBUG - Iperf flow 96 with size 68 bytes start
+2023-11-08 21:55:26,737 - DEBUG - [26556.232764483] thread 0 fork a flow : 96, 68 bytes
+2023-11-08 21:55:26,737 - DEBUG - Iperf flow 91 with size 66 bytes start
+2023-11-08 21:55:26,739 - DEBUG - [26556.234417555] thread 1 fork a flow : 91, 66 bytes
+2023-11-08 21:55:26,739 - DEBUG - Iperf flow 98 with size 65 bytes start
+2023-11-08 21:55:26,739 - DEBUG - [26556.234617147] thread 0 fork a flow : 98, 65 bytes
+2023-11-08 21:55:26,739 - DEBUG - Iperf flow 93 with size 2505 bytes start
+2023-11-08 21:55:26,741 - DEBUG - [26556.236450321] thread 1 fork a flow : 93, 2505 bytes
+2023-11-08 21:55:26,741 - DEBUG - Iperf flow 95 with size 1366 bytes start
+2023-11-08 21:55:26,741 - DEBUG - [26556.236572957] thread 1 fork a flow : 95, 1366 bytes
+2023-11-08 21:55:26,743 - DEBUG - Iperf flow 97 with size 66 bytes start
+2023-11-08 21:55:26,743 - DEBUG - [26556.238571088] thread 1 fork a flow : 97, 66 bytes
+2023-11-08 21:55:26,745 - DEBUG - Iperf flow 99 with size 66 bytes start
+2023-11-08 21:55:26,745 - DEBUG - [26556.240577198] thread 1 fork a flow : 99, 66 bytes

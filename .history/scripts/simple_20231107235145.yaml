@@ -1,0 +1,9 @@
+giant:
+  num: 0
+
+sprite:
+  num: 100
+  min_size : 64
+  max_size : 102400
+  distribution: zipf
+  distribution_params: [1.5]

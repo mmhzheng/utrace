@@ -1,0 +1,16 @@
+flows: [zipfflow]
+
+server:
+  type: tcp
+  ip: 10.0.0.2
+  port: 5001
+# scheduler:
+#   parallelism: 1
+
+zipfflow:
+  type: tcp
+  num: 100
+  min_size : 64
+  max_size : 102400
+  distribution: zipf
+  distribution_params: [1.5]
