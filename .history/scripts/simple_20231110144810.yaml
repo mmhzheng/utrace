@@ -21,3 +21,5 @@ hadoopflow:
   max_size : 100000000
   distribution: FacebookHadoop
   distribution_params: []
+
+hadoopflow:

@@ -1,5 +1,5 @@
 
-flows: [hadoopflow, longflow]
+flows: [zipfflow]
 
 duration: 2
 scheduler_p: 2
@@ -11,7 +11,7 @@ network: {
   "10.0.0.20" : "172.16.200.20"
 }
 
-hadoopflow:
+zipfflow:
   client: 10.0.0.3
   server_ip: 10.0.0.10
   server_port: 5001
@@ -20,4 +20,4 @@ hadoopflow:
   min_size : 64
   max_size : 100000000
   distribution: FacebookHadoop
-  distribution_params: []
+  distribution_param: []

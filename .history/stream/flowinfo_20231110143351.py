@@ -1,8 +1,6 @@
 from typing import List, Tuple
 import numpy as np
 import logging
-from scipy.interpolate import interp1d
-import random
 
 class FlowInfo:
     def __init__(self, id: int, client : str, server_ip : str, server_port : str, type: str, size: int):
@@ -18,7 +16,7 @@ class FlowInfo:
     
     
 class FlowCollection:
-    def __init__(self, client : str, server_ip : str, server_port : int, type: str, num: int, 
+    def __init__(self, client : str, server_ip : str, server_port : str, type: str, num: int, 
                  min_size: int, max_size: int, distribution: str, distribution_params: List[float]):
         self.client = client
         self.server_ip = server_ip
@@ -50,8 +48,6 @@ class FlowCollection:
             return np.random.uniform(self.min_size, self.max_size, self.num)
         elif self.distribution in ['FacebookHadoop', ]:
             filename = 'scripts/cdf/' + self.distribution + '.txt'
-            sizes = []
-            percentiles = []
             try:
                 with open(filename, 'r') as file:
                     for line in file:
@@ -59,17 +55,14 @@ class FlowCollection:
                         sizes.append(size)
                         percentiles.append(percentile)
             except FileNotFoundError:
-                print(f"File {filename} non-exist.")
+                print(f"文件 {filename} 不存在。")
                 return None, None
             except Exception as e:
-                print(f"Failure read {filename}: {e}")
+                print(f"读取文件 {filename} 时发生错误：{e}")
                 return None, None
-            f = interp1d(percentiles, sizes, kind='linear', fill_value="extrapolate")
-            random_percentiles = [random.uniform(0, 100) for _ in range(self.num)]
-            return [int(size) for size in f(random_percentiles)]
         else:
             raise ValueError(f"Unsupported distribution: {self.distribution}")
-        
+    
     def print_flows(self) -> None:
         for flow in self.flows:
             print(str(flow))

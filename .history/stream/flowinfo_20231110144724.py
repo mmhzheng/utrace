@@ -66,6 +66,7 @@ class FlowCollection:
                 return None, None
             f = interp1d(percentiles, sizes, kind='linear', fill_value="extrapolate")
             random_percentiles = [random.uniform(0, 100) for _ in range(self.num)]
+            s =  f(random_percentiles)
             return [int(size) for size in f(random_percentiles)]
         else:
             raise ValueError(f"Unsupported distribution: {self.distribution}")

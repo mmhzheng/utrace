@@ -29,18 +29,15 @@ if __name__ == '__main__':
 
     flow_collections = []
     for flow in config['flows']:
-        fc = FlowCollection(config[flow]['client'],
-                            config[flow]['server_ip'],
-                            config[flow]['server_port'],
-                            config[flow]['type'], 
-                            config[flow]['num'], 
-                            config[flow]['min_size'], 
-                            config[flow]['max_size'], 
-                            config[flow]['distribution'], 
-                            config[flow]['distribution_params'])
+        fc = FlowCollection(config[flow]['type'], 
+                                config[flow]['num'], 
+                                config[flow]['min_size'], 
+                                config[flow]['max_size'], 
+                                config[flow]['distribution'], 
+                                config[flow]['distribution_params'])
         flow_collections.append(fc)
     
-    # scheduler = FlowScheduler(config['duration'], flow_collections[0].get_flows(), config['scheduler_p'])
+    scheduler = FlowScheduler(config['duration'], flow_collections[0].get_flows(), config['scheduler_p'])
     
     # scheduler.run()
     

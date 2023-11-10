@@ -18,7 +18,7 @@ class FlowInfo:
     
     
 class FlowCollection:
-    def __init__(self, client : str, server_ip : str, server_port : int, type: str, num: int, 
+    def __init__(self, client : str, server_ip : str, server_port : str, type: str, num: int, 
                  min_size: int, max_size: int, distribution: str, distribution_params: List[float]):
         self.client = client
         self.server_ip = server_ip
@@ -65,11 +65,10 @@ class FlowCollection:
                 print(f"Failure read {filename}: {e}")
                 return None, None
             f = interp1d(percentiles, sizes, kind='linear', fill_value="extrapolate")
-            random_percentiles = [random.uniform(0, 100) for _ in range(self.num)]
-            return [int(size) for size in f(random_percentiles)]
+            random_percentiles = [random.uniform(0, 100) for _ in range(n)]
+            return f(random_percentiles)
         else:
             raise ValueError(f"Unsupported distribution: {self.distribution}")
-        
     def print_flows(self) -> None:
         for flow in self.flows:
             print(str(flow))

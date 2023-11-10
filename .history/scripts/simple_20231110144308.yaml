@@ -1,5 +1,5 @@
 
-flows: [hadoopflow, longflow]
+flows: [zipfflow]
 
 duration: 2
 scheduler_p: 2
@@ -20,4 +20,4 @@ hadoopflow:
   min_size : 64
   max_size : 100000000
   distribution: FacebookHadoop
-  distribution_params: []
+  distribution_param: []

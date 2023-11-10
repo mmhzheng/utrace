@@ -1,5 +1,5 @@
 
-flows: [hadoopflow, longflow]
+flows: [hadoopflow]
 
 duration: 2
 scheduler_p: 2
