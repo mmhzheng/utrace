@@ -1,0 +1,23 @@
+
+flows: [hadoopflow]
+
+duration: 2
+scheduler_p: 2
+
+network: {
+  "10.0.0.3" : "172.16.200.3",
+  "10.0.0.6" : "172.16.200.6",
+  "10.0.0.10" : "172.16.200.10",
+  "10.0.0.20" : "172.16.200.20"
+}
+
+hadoopflow:
+  client: 10.0.0.3
+  server_ip: 10.0.0.10
+  server_port: 50001
+  type: tcp
+  num: 5
+  min_size : 64
+  max_size : 100000000
+  distribution: WebSearch
+  distribution_params: []
