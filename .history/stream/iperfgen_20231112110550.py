@@ -6,11 +6,10 @@ from typing import List
 import logging
 
 class IperfGen(FlowGenerator):
-    def __init__(self):
+    def __init__(self, ipmap):
         self.processes: List[multiprocessing.Process] = []
 
     def lauch_one_flow(self, flow : FlowInfo) -> None:
-        print(flow)
         id = flow.id
         size = flow.size
         server_ip = flow.server_ip

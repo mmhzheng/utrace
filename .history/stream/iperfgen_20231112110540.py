@@ -10,7 +10,6 @@ class IperfGen(FlowGenerator):
         self.processes: List[multiprocessing.Process] = []
 
     def lauch_one_flow(self, flow : FlowInfo) -> None:
-        print(flow)
         id = flow.id
         size = flow.size
         server_ip = flow.server_ip

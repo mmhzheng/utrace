@@ -29,8 +29,7 @@ if __name__ == '__main__':
 
     flow_collections = []
     for flow in config['flows']:
-        fc = FlowCollection(config['network'],
-                            config[flow]['client'],
+        fc = FlowCollection(config[flow]['client'],
                             config[flow]['server_ip'],
                             config[flow]['server_port'],
                             config[flow]['type'], 
@@ -43,10 +42,9 @@ if __name__ == '__main__':
     
     flows = []
     for fc in flow_collections:
-        flows += fc.get_flows()
+        flows.append(fc.get_flows())
         
     scheduler = FlowScheduler(config['duration'], flows, config['scheduler_p'])
-    
     scheduler.run()
     
 

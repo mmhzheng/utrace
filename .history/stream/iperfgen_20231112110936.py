@@ -10,14 +10,14 @@ class IperfGen(FlowGenerator):
         self.processes: List[multiprocessing.Process] = []
 
     def lauch_one_flow(self, flow : FlowInfo) -> None:
-        print(flow)
         id = flow.id
         size = flow.size
         server_ip = flow.server_ip
         server_port = flow.server_port
-        output_file = f"iperf_output_flow{id}.txt"
-        process = multiprocessing.Process(target=self.run_iperf, args=(server_ip, server_port, size, output_file,))
-        process.start()
+        logging.debug(f"iperfgen: {id}, {size}, {server_ip}, {server_port}")
+        # output_file = f"iperf_output_flow{id}.txt"
+        # process = multiprocessing.Process(target=self.run_iperf, args=(server_ip, server_port, size, output_file,))
+        # process.start()
         self.processes.append(process)
 
     def run_iperf(self, server_ip, server_port, size, output_file):

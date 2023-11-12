@@ -20,7 +20,6 @@ class FlowInfo:
 class FlowCollection:
     def __init__(self, network: dict, client : str, server_ip : str, server_port : int, 
                  type: str, num: int, min_size: int, max_size: int, distribution: str, distribution_params: List[float]):
-        self.network = network
         self.client = client
         self.server_ip = server_ip
         self.server_port = server_port
@@ -40,7 +39,7 @@ class FlowCollection:
     # @output: the number of added flows
     def generate_flows(self) -> None:
         for i in range(self.num):
-            flow = FlowInfo(i, self.network[self.client], self.network[self.server_ip], self.server_port, self.type, self.s[i])
+            flow = FlowInfo(i, self.client, self.server_ip, self.server_port, self.type, self.s[i])
             logging.info(f"Generate flow: {str(flow)}")
             self.flows.append(flow)
     

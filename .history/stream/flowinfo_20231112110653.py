@@ -40,7 +40,7 @@ class FlowCollection:
     # @output: the number of added flows
     def generate_flows(self) -> None:
         for i in range(self.num):
-            flow = FlowInfo(i, self.network[self.client], self.network[self.server_ip], self.server_port, self.type, self.s[i])
+            flow = FlowInfo(i, self.client, self.server_ip, self.server_port, self.type, self.s[i])
             logging.info(f"Generate flow: {str(flow)}")
             self.flows.append(flow)
     
