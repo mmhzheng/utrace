@@ -16,7 +16,7 @@ hadoopflow:
   server_ip: 10.0.0.10
   server_port: 50001
   type: tcp
-  num: 100
+  num: 10
   min_size : 64
   max_size : 100000000
   distribution: WebSearch
