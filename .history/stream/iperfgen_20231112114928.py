@@ -15,7 +15,7 @@ class IperfGen(FlowGenerator):
         size = flow.size
         server_ip = flow.server_ip
         server_port = flow.server_port
-        output_file = f"log/iperf_output_flow{id}.txt"
+        output_file = f"iperf_output_flow{id}.txt"
         process = multiprocessing.Process(target=self.run_iperf, args=(server_ip, server_port, size, output_file,))
         process.start()
         self.processes.append(process)
@@ -27,5 +27,4 @@ class IperfGen(FlowGenerator):
 
     def wait_for_all(self):
         for process in self.processes:
-            if process.is_alive():
-                process.join()
+            process.join()

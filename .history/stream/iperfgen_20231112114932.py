@@ -27,5 +27,4 @@ class IperfGen(FlowGenerator):
 
     def wait_for_all(self):
         for process in self.processes:
-            if process.is_alive():
-                process.join()
+            process.join()
