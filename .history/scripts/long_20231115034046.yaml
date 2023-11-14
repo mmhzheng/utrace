@@ -15,4 +15,4 @@ flows:
   type: tcp
   num: 10
   distribution: uniform
-  distribution_params: [5000000000, 5000000000]
+  distribution_params: [10000000000, 10000000000]
