@@ -35,7 +35,7 @@ class FlowScheduler:
             ################ Do something
             self.iperfGens[thread_id].lauch_one_flow(f)
             ################
-            # logging.debug(f"[{time.perf_counter()}] thread {thread_id} fork a flow : {f.id}, {f.size} bytes")
+            logging.debug(f"[{time.perf_counter()}] thread {thread_id} fork a flow : {f.id}, {f.size} bytes")
             expected_time_point = start_time + (self.duration_perf_count * (i+1) / len(self.flows[thread_id]))
             while time.perf_counter()* S_TO_US < expected_time_point:
                 pass

@@ -6,7 +6,7 @@
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/setup.py",
-            "args": ["-c", "${workspaceFolder}/scripts/simple.yaml"],
+            "args": ["-c", "${workspaceFolder}/scripts/websearch.yaml", "-m", "server"],
             "console": "integratedTerminal",
             "justMyCode": true
         }

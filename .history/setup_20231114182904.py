@@ -3,7 +3,6 @@ import os
 import argparse
 import yaml
 import logging
-import time
 
 from stream.flowinfo import FlowCollection
 from stream.scheduler import FlowScheduler
@@ -30,7 +29,7 @@ if __name__ == '__main__':
     with open(config_file, 'r') as file:
         config = yaml.safe_load(file)
 
-    flow_config = config['flows'] # Use get with a default empty dict
+    flow_config = config[flows] # Use get with a default empty dict
     fc = FlowCollection(
         config['network'],
         flow_config['client'],
@@ -49,7 +48,6 @@ if __name__ == '__main__':
         if args.mode == 'server':
             serverbatch = ServerBatch(config['flows']['server_port'], config['flows']['num'])
             serverbatch.setup_servers()
-            time.sleep(3600)
         elif args.mode == 'client':
             scheduler = FlowScheduler(
                 config.get('duration'), 

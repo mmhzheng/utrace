@@ -1,3 +1,6 @@
+
+flows: [websearch]
+
 duration: 2
 scheduler_p: 2
 

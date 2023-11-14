@@ -1,3 +1,6 @@
+
+flows: [websearch]
+
 duration: 2
 scheduler_p: 2
 
@@ -8,7 +11,7 @@ network: {
   "10.0.0.20" : "172.16.200.20"
 }
 
-flows:
+websearch:
   client: 10.0.0.3
   server_ip: 10.0.0.10
   server_port: 50001

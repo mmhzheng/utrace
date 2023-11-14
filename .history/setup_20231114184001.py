@@ -3,7 +3,7 @@ import os
 import argparse
 import yaml
 import logging
-import time
+imrpot time
 
 from stream.flowinfo import FlowCollection
 from stream.scheduler import FlowScheduler
@@ -49,7 +49,7 @@ if __name__ == '__main__':
         if args.mode == 'server':
             serverbatch = ServerBatch(config['flows']['server_port'], config['flows']['num'])
             serverbatch.setup_servers()
-            time.sleep(3600)
+            
         elif args.mode == 'client':
             scheduler = FlowScheduler(
                 config.get('duration'), 
