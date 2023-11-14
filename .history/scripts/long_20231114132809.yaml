@@ -1,0 +1,21 @@
+
+flows: [hadoopflow]
+
+duration: 0
+scheduler_p: 1
+
+network: {
+  "10.0.0.3" : "172.16.200.3",
+  "10.0.0.6" : "172.16.200.6",
+  "10.0.0.10" : "172.16.200.10",
+  "10.0.0.20" : "172.16.200.20"
+}
+
+longflow:
+  client: 10.0.0.6
+  server_ip: 10.0.0.10
+  server_port: 50002
+  type: tcp
+  num: 5
+  distribution: uniform
+  distribution_params: []
