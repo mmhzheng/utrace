@@ -1,0 +1,11 @@
+duration: 0.1
+scheduler_p: 1
+
+flows:
+  client: 172.16.200.3
+  server_ip: 172.16.200.10
+  server_port_base: 60001
+  type: tcp
+  num: 10
+  distribution: uniform
+  distribution_params: [5000000000, 5000000000]
