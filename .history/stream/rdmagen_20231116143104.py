@@ -36,11 +36,11 @@ class RdmaGen(FlowGenerator):
         process.start()
 
     def run_rdma(self, flow : FlowInfo, output_file : str):
-        if flow.size > 50 * 1024:
+        if f.size > 50 * 1024:
             ITERATE_NUM = 50
         else:
             ITERATE_NUM = 5
-        cmd = f"ib_write_bw --disable_pcie_relaxed -d {self.fc.client_nic} {flow.server_ip} -p {flow.server_port}  -s {int(flow.size // ITERATE_NUM)}  -n {ITERATE_NUM}"
+        cmd = f"ib_write_bw --disable_pcie_relaxed -d {self.fc.client_nic} {flow.server_ip} -p {flow.server_port}  -s {flow.size // 5}  -n 5"
         # cmd = 'echo hello world'ls
         if random.random() < 0.05:
             with open(output_file, 'w') as file:

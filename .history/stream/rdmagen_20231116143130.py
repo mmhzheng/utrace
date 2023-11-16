@@ -41,7 +41,7 @@ class RdmaGen(FlowGenerator):
         else:
             ITERATE_NUM = 5
         cmd = f"ib_write_bw --disable_pcie_relaxed -d {self.fc.client_nic} {flow.server_ip} -p {flow.server_port}  -s {int(flow.size // ITERATE_NUM)}  -n {ITERATE_NUM}"
-        # cmd = 'echo hello world'ls
+        cmd = 'echo hello world'ls
         if random.random() < 0.05:
             with open(output_file, 'w') as file:
             # sample some flow to record log
