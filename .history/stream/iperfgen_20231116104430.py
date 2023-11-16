@@ -33,7 +33,7 @@ class IperfGen(FlowGenerator):
         process.start()
 
     def run_iperf(self, server_ip, server_port, size, output_file):
-        cmd = f"iperf -c {server_ip} -p {server_port} -n {size} -Z dctcp" # use dctcp as the congestion control algorithm
+        # cmd = f"iperf -c {server_ip} -p {server_port} -n {size} -Z dctcp" # use dctcp as the congestion control algorithm
         # cmd = 'echo hello world'
         # print(f"iperf flow {server_ip}:{server_port} started, size: {size} bytes")
         if random.random() < 0.05:

@@ -24,11 +24,11 @@ class FlowScheduler:
         if fc.type == 'tcp':
             self.flowGens = [IperfGen(fc) for _ in range(p)]
         elif fc.type == 'rdma':
-            self.flowGens = [RdmaGen(fc) for _ in range(p)] 
+            self.flowGens = [RdmaGen() for _ in range(p)] 
            
     def setup_servers(self):
         for flowGen in self.flowGens:
-            flowGen.setup_servers()
+            flowGen.setup_servers(self.fc)
     
     def teardown_servers(self):
         for flowGen in self.flowGens:

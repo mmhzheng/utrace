@@ -9,11 +9,10 @@ class IperfGen(FlowGenerator):
     def __init__(self, fc : FlowCollection):
         self.client_processes = []
         self.server_processes = []
-        self.fc = fc
-        
-    def setup_servers(self) -> None:
+
+    def setup_servers(self, ) -> None:
         # setup self.number iperf servers with subprocess model.
-        for f in self.fc.flows:
+        for f in fc.flows:
             cmd = f"iperf -s -p {f.server_port} -Z dctcp"
             server = subprocess.Popen(cmd.split(), stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             self.server_processes.append(server)
@@ -33,9 +32,9 @@ class IperfGen(FlowGenerator):
         process.start()
 
     def run_iperf(self, server_ip, server_port, size, output_file):
-        cmd = f"iperf -c {server_ip} -p {server_port} -n {size} -Z dctcp" # use dctcp as the congestion control algorithm
-        # cmd = 'echo hello world'
-        # print(f"iperf flow {server_ip}:{server_port} started, size: {size} bytes")
+        # cmd = f"iperf -c {server_ip} -p {server_port} -n {size} -Z dctcp" # use dctcp as the congestion control algorithm
+        cmd = 'echo hello world'
+        print(f"iperf flow {server_ip}:{server_port} started, size: {size} bytes")
         if random.random() < 0.05:
             with open(output_file, 'w') as file:
             # sample some flow to record log

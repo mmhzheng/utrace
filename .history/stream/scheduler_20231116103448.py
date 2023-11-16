@@ -28,7 +28,7 @@ class FlowScheduler:
            
     def setup_servers(self):
         for flowGen in self.flowGens:
-            flowGen.setup_servers()
+            flowGen.setup_servers(self.fc)
     
     def teardown_servers(self):
         for flowGen in self.flowGens:
