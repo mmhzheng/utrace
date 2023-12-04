@@ -3,7 +3,7 @@ scheduler_p: 1
 
 flows:
   type: rdma
-  num: 100
+  num: 300
   distribution: uniform
   distribution_params: [100000000, 100000000]
   client_nic: mlx5_1
