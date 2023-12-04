@@ -42,6 +42,7 @@ class FlowCollection:
             self.flows.append(flow)
     
     def get_flow_size(self) -> list:
+        random.seed(42) 
         min_size = 0
         max_size = 0x1fffffffffffff
         if self.distribution == 'zipf':
