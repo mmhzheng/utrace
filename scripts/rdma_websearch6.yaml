@@ -1,5 +1,5 @@
 duration: 1
-scheduler_p: 1
+scheduler_p: 2
 
 flows:
   type: rdma
