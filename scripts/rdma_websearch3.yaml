@@ -1,9 +1,9 @@
 duration: 1
-scheduler_p: 2
+scheduler_p: 4
 
 flows:
   type: rdma
-  num: 2000
+  num: 1000
   distribution: WebSearch
   distribution_params: []
   client_nic: mlx5_1
