@@ -42,15 +42,15 @@ class FlowScheduler:
         
     def __start(self) -> None:
         thread_id = int(threading.current_thread().name)
-        # start_time = time.perf_counter() * S_TO_US
+        start_time = time.perf_counter() * S_TO_US
         for i, f in enumerate(self.flows[thread_id]):
             ################ Do something
             self.flowGens[thread_id].lauch_one_flow(f)
             ################
             # logging.debug(f"[{time.perf_counter()}] thread {thread_id} fork a flow : {f.id}, {f.size} bytes")
-            # expected_time_point = start_time + (self.duration_perf_count * (i+1) / len(self.flows[thread_id]))
-            # while time.perf_counter()* S_TO_US < expected_time_point:
-            #     pass
+            expected_time_point = start_time + (self.duration_perf_count * (i+1) / len(self.flows[thread_id]))
+            while time.perf_counter()* S_TO_US < expected_time_point:
+                pass
         pass
         print(f"Thread {thread_id} All flows are generated. Wait for all flows to finish.")
         

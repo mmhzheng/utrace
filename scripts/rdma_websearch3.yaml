@@ -3,7 +3,7 @@ scheduler_p: 4
 
 flows:
   type: rdma
-  num: 1000
+  num: 3000
   distribution: WebSearch
   distribution_params: []
   client_nic: mlx5_1
